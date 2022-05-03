@@ -1,8 +1,3 @@
-Intro to Verilog  
-In this assignment, we will learn the basics of a hardware description language (HDL) called 
-SystemVerilog.  We will use SystemVerilog to describe a simple logic circuit shown in which has three logic gate (AND, OR, and XOR), two inputs (“a” and “b”) and three outputs (“y1”, “y2”, and “y3”).  We will implement this circuit using the three different Verilog coding styles (structural, dataflow, and behavioral) and then create a behavioral Testbench module to test the functionality of the three modules.  
- 
-  
 Figure 1: Logic circuit to be implemented in this assignment 
  
 You can refer to the recitation notes posted to Canvas under Pages / Verilog Notes on Verilog for reference. 
