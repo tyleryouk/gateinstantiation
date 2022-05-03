@@ -1,3 +1,13 @@
+CASE WESTERN RESERVE UNIVERSITY 
+Case School of Engineering 
+Department of Electrical, Computer and Systems Engineering ECSE 281. Logic Design and Computer Organization (4) 
+ 
+Assignment #4 	Due: February 4, 2022 
+Laboratory (20 pts): Intro to Verilog  
+In this assignment, we will learn the basics of a hardware description language (HDL) called 
+SystemVerilog.  We will use SystemVerilog to describe a simple logic circuit shown in which has three logic gate (AND, OR, and XOR), two inputs (“a” and “b”) and three outputs (“y1”, “y2”, and “y3”).  We will implement this circuit using the three different Verilog coding styles (structural, dataflow, and behavioral) and then create a behavioral Testbench module to test the functionality of the three modules.  
+ 
+  
 Figure 1: Logic circuit to be implemented in this assignment 
  
 You can refer to the recitation notes posted to Canvas under Pages / Verilog Notes on Verilog for reference. 
@@ -34,4 +44,5 @@ Once all the modules have been written, compile the code and run a simulation wi
 Step 7: Deliverables 
  
 To turn in your lab code, submit all your code as part of your homework pdf file. You can copy and paste the code into a word processor and then add it to your homework pdf. You also need to submit the console output and the waveform. You can take a screenshot and add it to your homework file. 
+
  
