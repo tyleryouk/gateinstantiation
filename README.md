@@ -1,7 +1,3 @@
-CASE WESTERN RESERVE UNIVERSITY 
-Case School of Engineering 
-Department of Electrical, Computer and Systems Engineering ECSE 281. Logic Design and Computer Organization (4) 
- 
 Assignment #4 	Due: February 4, 2022 
 Laboratory (20 pts): Intro to Verilog  
 In this assignment, we will learn the basics of a hardware description language (HDL) called 
